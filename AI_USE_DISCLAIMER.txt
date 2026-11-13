@@ -1,0 +1,4 @@
+imgextractor.py is a human-revised version of ai generated code, the looping functionality was added by me
+80-95% of window code in app.py is ai generated, with some additions and edits by me. Most, if not all logic handling the lists, opening files, and copying names was wrote by me.
+The Windows/Mac setup scripts  are ai-generated from my linux setup.sh file, which i made myself.
+I have my regrets using AI this much, and I wish I knew more about Gtk/Adwaita, and I hope i can use this as reference for future projects over relying on AI.

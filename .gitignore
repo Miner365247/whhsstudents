@@ -1,0 +1,4 @@
+pdfs/*.pdf
+jpgs/*
+.goutput*
+students.json
